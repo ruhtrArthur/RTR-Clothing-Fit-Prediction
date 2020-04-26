@@ -1,5 +1,5 @@
 # Predicting Clothing Item Fit
-USF MSDS Machine Learning Lab - Group Project
+USF MSDS Machine Learning Lab - Group Project (this README file is prepared by Esther Liu)
 
 #### Data: Rent The Runway Clothing Fit Feedback
 Rent the Runway is a billion dollar clothing rental service that's trying to transform how women shop
